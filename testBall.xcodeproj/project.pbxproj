@@ -14,6 +14,8 @@
 		4D678E242A7C04DD00062457 /* testBall.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4D678E222A7C04DD00062457 /* testBall.xcdatamodeld */; };
 		4D678E262A7C04DE00062457 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D678E252A7C04DE00062457 /* Assets.xcassets */; };
 		4D678E292A7C04DE00062457 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D678E272A7C04DE00062457 /* LaunchScreen.storyboard */; };
+		4D678E312A7C052700062457 /* Ball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D678E302A7C052700062457 /* Ball.swift */; };
+		4D678E332A7C053900062457 /* SquareArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D678E322A7C053900062457 /* SquareArea.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		4D678E252A7C04DE00062457 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D678E282A7C04DE00062457 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D678E2A2A7C04DE00062457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D678E302A7C052700062457 /* Ball.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ball.swift; sourceTree = "<group>"; };
+		4D678E322A7C053900062457 /* SquareArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareArea.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				4D678E272A7C04DE00062457 /* LaunchScreen.storyboard */,
 				4D678E2A2A7C04DE00062457 /* Info.plist */,
 				4D678E222A7C04DD00062457 /* testBall.xcdatamodeld */,
+				4D678E302A7C052700062457 /* Ball.swift */,
+				4D678E322A7C053900062457 /* SquareArea.swift */,
 			);
 			path = testBall;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			files = (
 				4D678E242A7C04DD00062457 /* testBall.xcdatamodeld in Sources */,
 				4D678E1E2A7C04DD00062457 /* ViewController.swift in Sources */,
+				4D678E312A7C052700062457 /* Ball.swift in Sources */,
+				4D678E332A7C053900062457 /* SquareArea.swift in Sources */,
 				4D678E1A2A7C04DD00062457 /* AppDelegate.swift in Sources */,
 				4D678E1C2A7C04DD00062457 /* SceneDelegate.swift in Sources */,
 			);
